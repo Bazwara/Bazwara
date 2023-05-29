@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
+[![MasterHead](https://images.genius.com/17aeedde625c4bee024e84bc7ce61874.480x270x16.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Bazawara</h1>
 <h3 align="center">A passionate Graphic Designer from Indonesia</h3>
-<img align="right" alt="Coding" widht="400" src="https://images.genius.com/17aeedde625c4bee024e84bc7ce61874.480x270x16.gif">
+<img align="right" alt="Coding" widht="400" src="https://media.tenor.com/FzRXygVNwo4AAAAC/marsha-marsha-jkt48.gif">
 
 - 🌱 I’m currently learning **Graphic Design**
 
